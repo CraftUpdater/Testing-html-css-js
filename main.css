@@ -45,9 +45,10 @@ a:hover, a:checked, a:focus {
 }
 
 h1 {
-  font-size: 114px;
+  font-size: 72px;
+  color: #fff;
 }
 
-#logo_text {
+.logo_text {
   margin-left: 40px;
 }
