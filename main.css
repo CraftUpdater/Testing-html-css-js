@@ -19,3 +19,9 @@ a:hover, a:checked, a:focus {
   text-decoration: none;
   color: #555;
 }
+
+#header {
+  width: 100%;
+  height: 300px;
+  background-color: #4d67ac;
+}
