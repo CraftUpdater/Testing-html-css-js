@@ -15,6 +15,10 @@ p {
   font-weight: 300;
 }
 
+a {
+  color: #555;
+}
+
 a:hover, a:checked, a:focus {
   text-decoration: none;
   color: #555;
@@ -24,4 +28,15 @@ a:hover, a:checked, a:focus {
   width: 100%;
   height: 300px;
   background-color: #4d67ac;
+}
+
+#logo {
+  width: 35%;
+  height: 100%;
+}
+
+#phone {
+  width: 35%;
+  margin-left: 30%;
+  
 }
