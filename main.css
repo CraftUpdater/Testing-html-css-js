@@ -38,5 +38,5 @@ a:hover, a:checked, a:focus {
 #phone {
   width: 35%;
   margin-left: 30%;
-  
+  height: 100%;
 }
