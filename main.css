@@ -3,6 +3,7 @@
 body {
   width: 100%;
   background-color: #fff;
+  margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,6 +29,8 @@ a:hover, a:checked, a:focus {
   width: 100%;
   height: 300px;
   background-color: #4d67ac;
+  margin: 0;
+  padding: 0;
 }
 
 #logo {
@@ -39,4 +42,8 @@ a:hover, a:checked, a:focus {
   width: 35%;
   margin-left: 30%;
   height: 100%;
+}
+
+h1 {
+  font-size: 114px;
 }
